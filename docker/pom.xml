@@ -80,8 +80,8 @@
         <webservices-api.version>4.0.0</webservices-api.version>
         <soapwithattachments-api.version>3.0.0</soapwithattachments-api.version>
         <webservices-api-osgi.version>4.0.0-M4</webservices-api-osgi.version>
-        <webservices-osgi.version>4.0.0-M4</webservices-osgi.version>
-        <webservices-tools.version>4.0.0-M4</webservices-tools.version> 
+        <webservices-osgi.version>4.0.3</webservices-osgi.version>
+        <webservices-tools.version>4.0.3</webservices-tools.version> 
 
         <glassfish-corba-orb.version>4.2.4</glassfish-corba-orb.version>       
         
